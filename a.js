@@ -15,3 +15,4 @@ console.log('test');
 console.log('test');
 console.log('23333');
 console.log('git checkout feature/ft2');
+console.log('git reset test');
